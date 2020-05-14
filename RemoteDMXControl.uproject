@@ -153,6 +153,10 @@
 		{
 			"Name": "DMXFixtures",
 			"Enabled": true
+		},
+		{
+			"Name": "MIDIDevice",
+			"Enabled": true
 		}
 	]
 }
