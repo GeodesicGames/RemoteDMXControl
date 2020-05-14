@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.remotedmxcontrol-12611535.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "E:/UE_Projects/RemoteDMXControl/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "RemoteDMXControl-12611535 [UE Editor]"
+				}
+			}
+		}
+	]
+}
