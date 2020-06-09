@@ -3,6 +3,13 @@
 	"EngineAssociation": "4.25",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "RemoteDMXControl",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "MagicLeapMedia",
@@ -152,6 +159,10 @@
 		},
 		{
 			"Name": "DMXFixtures",
+			"Enabled": true
+		},
+		{
+			"Name": "DMXProxy",
 			"Enabled": true
 		},
 		{
